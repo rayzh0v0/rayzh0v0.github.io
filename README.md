@@ -10,8 +10,8 @@ I'm currently a master student at the College of Computer, Northwest Polytechnic
 
 ## Education
 
-* 2023.9~Present | M.E., Computer Technology | Northwest Polytechnical University, Xi'an, Shannxi
-* 2019.9~2023.7 | B.E., Computer Science and Technology | Harbin University of Science and Technology, Harbin, Heilongjiang
+* 2023.9~Present. M.E., Computer Technology. Northwest Polytechnical University, Xi'an, Shannxi
+* 2019.9~2023.7. B.E., Computer Science and Technology. Harbin University of Science and Technology, Harbin, Heilongjiang
 
 ## Project Experience
 
