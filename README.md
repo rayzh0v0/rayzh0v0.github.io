@@ -1,6 +1,6 @@
 ## About me
 
-I'm currently a master student at the College of Computer, Northwest Polytechnical University, Xi'an, Shannxi. I obtained my bachelor's degree from Harbin University of Science and Technology at 2023.
+I'm currently a master student at the College of Computer, Northwestern Polytechnical University, Xi'an, Shannxi. I obtained my bachelor's degree from Harbin University of Science and Technology, Harbin, Heilongjiang, at 2023.
 
 ## Research Interest
 
@@ -10,7 +10,7 @@ I'm currently a master student at the College of Computer, Northwest Polytechnic
 
 ## Education
 
-* 2023.9~Present. M.E., Computer Technology. Northwest Polytechnical University, Xi'an, Shannxi
+* 2023.9~Present. M.E., Computer Technology. Northwestern Polytechnical University, Xi'an, Shannxi
 * 2019.9~2023.7. B.E., Computer Science and Technology. Harbin University of Science and Technology, Harbin, Heilongjiang
 
 ## Project Experience
